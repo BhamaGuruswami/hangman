@@ -20,9 +20,13 @@ let letters;
 let lives;
 
 const words = new Map([
-  ['test', 'a test word'],
-  ['tests', 'another test word'],
-  ['random', 'some random word'],
+  ['beijing', 'capital of China'],
+  ['www', 'World wide web '],
+  ['apple', 'iPhone, iPad'],
+  ['Paris', 'capital of France'],
+  ['cricket', 'Sachin Tendulkar '],
+  ['amsterdam', 'Rijksmuseum'],
+
 ]);
 
 // making a list of only keys from words
